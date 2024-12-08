@@ -11,4 +11,4 @@ This repository contains the backend server code for an e-commerce application. 
 - **Payment Processing:** Integration with payment gateways (Stripe, etc.).
 - **Admin Dashboard:** Manage users, products, and orders.
 
-The frontend code for this project can be found [here](https://github.com/ok-akshat/ecommerce-frontend).
+
