@@ -8,7 +8,7 @@ This repository contains the backend server code for an e-commerce application. 
 - **Product Management:** Create, read, update, delete products.
 - **Shopping Cart:** Add and remove items from the cart.
 - **Order Management:** Place orders and manage order history.
-- **Payment Processing:** Integration with payment gateways (Stripe, etc.).
+- **Payment Processing:** Integration with payment gateway (Stripe).
 - **Admin Dashboard:** Manage users, products, and orders.
 
 
